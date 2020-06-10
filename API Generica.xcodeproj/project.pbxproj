@@ -12,6 +12,8 @@
 		11190F2F24909F3B00F55E0A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11190F2E24909F3B00F55E0A /* ViewController.swift */; };
 		11190F3424909F4300F55E0A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11190F3324909F4300F55E0A /* Assets.xcassets */; };
 		11190F3724909F4300F55E0A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11190F3524909F4300F55E0A /* LaunchScreen.storyboard */; };
+		11190F3F2490A6A200F55E0A /* EmployeeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11190F3E2490A6A200F55E0A /* EmployeeCell.swift */; };
+		11190F412490A76E00F55E0A /* EmployeeModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11190F402490A76E00F55E0A /* EmployeeModelData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		11190F3324909F4300F55E0A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		11190F3624909F4300F55E0A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		11190F3824909F4300F55E0A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		11190F3E2490A6A200F55E0A /* EmployeeCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeeCell.swift; sourceTree = "<group>"; };
+		11190F402490A76E00F55E0A /* EmployeeModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeeModelData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				11190F2A24909F3B00F55E0A /* AppDelegate.swift */,
 				11190F2C24909F3B00F55E0A /* SceneDelegate.swift */,
 				11190F2E24909F3B00F55E0A /* ViewController.swift */,
+				11190F3E2490A6A200F55E0A /* EmployeeCell.swift */,
+				11190F402490A76E00F55E0A /* EmployeeModelData.swift */,
 				11190F3324909F4300F55E0A /* Assets.xcassets */,
 				11190F3524909F4300F55E0A /* LaunchScreen.storyboard */,
 				11190F3824909F4300F55E0A /* Info.plist */,
@@ -135,6 +141,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				11190F2F24909F3B00F55E0A /* ViewController.swift in Sources */,
+				11190F412490A76E00F55E0A /* EmployeeModelData.swift in Sources */,
+				11190F3F2490A6A200F55E0A /* EmployeeCell.swift in Sources */,
 				11190F2B24909F3B00F55E0A /* AppDelegate.swift in Sources */,
 				11190F2D24909F3B00F55E0A /* SceneDelegate.swift in Sources */,
 			);
